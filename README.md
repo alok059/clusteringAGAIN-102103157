@@ -11,3 +11,16 @@
 ![alt text](https://github.com/alok059/clusteringAGAIN-102103157/blob/main/visuals/aggloclustering.png?raw=true)
 ![alt text](https://github.com/alok059/clusteringAGAIN-102103157/blob/main/visuals/kmeans.png?raw=true)
 ![alt text](https://github.com/alok059/clusteringAGAIN-102103157/blob/main/visuals/dbscan%20.png?raw=true)
+
+## Clustering Techniques
+### The clustering techniques employed in this project are:
+* K Means Clustering
+* Agglomerative clustering
+* DBSCAN
+* Evaluation Parameters
+
+### The performance of the clustering algorithms is evaluated based on the following parameters:
+
+* Silhouette Score
+* Calinski-Harabasz Score
+* Davies-Bouldin Score
